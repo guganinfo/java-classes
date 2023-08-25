@@ -1,0 +1,12 @@
+public Class home 
+
+{
+  
+  static String name = "adthiya";
+  static int age =15;
+
+public static void main(String{} args)
+{
+system.out.println("welcome to java");
+system.out.println(home.java);
+system.out.println(name.age);
