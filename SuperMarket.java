@@ -1,10 +1,6 @@
 public class SuperMarket
 {
-
-  static  String name ="gugan";
-  static int doorNo =41;
-	
-  String productname1 ="gooday";
+ String productname1 ="gooday";
   
 	int price1 =30;
   
@@ -12,11 +8,12 @@ public class SuperMarket
 	int price2 =20;
 	String productname3 ="hideandseek";
 	int price3 =35;
+    
 	
   public static void main(String[] args)
   
   {
-    
+   
 	System.out.println(SuperMarket.name);
 	System.out.println(SuperMarket.doorNo);
 	  
