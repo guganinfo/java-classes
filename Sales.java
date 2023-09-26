@@ -3,11 +3,11 @@ public class Sales implements Newabishop
 
 public static void main (String[] args)
 {
- Sales liquor =new Sales();
-  liquor.alcoholoffer(); 
-  liquor.alcoholbuyonegetoneoffer();
-  liquor.importnewalcohol();
-  liquor.newalcoholdiscount();
+ Sales liquor =newsales();
+  liquor.alcohol offer(); 
+  liquor.alcohol buy onegetone offer();
+  liquor.newalcohol();
+  liquor.newalcohol discount();
 }
 public void alcoholoffer()
 {

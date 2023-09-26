@@ -1,9 +1,10 @@
-public class Employee implements Rules
+public class Employee extends Indianemp implements Rules
 {
 public static void main(String[] args)
 {
- Rules emp = new Employee();
+ Employee emp = new Employee();
  emp.getSalary();
+ emp.hardwork();
  //emp.noOfLeaves = 20;
  System.out.println(emp.noOfLeaves);
  System.out.println(Rules.noOfLeaves);
