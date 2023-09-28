@@ -1,10 +1,11 @@
 package lic.trichy;
 
-public class User {
+import lic.perambalur.Calculator;
+
+public class User extends Calculator{
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	
+	
 	}
-
 }
