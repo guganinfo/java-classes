@@ -1,13 +1,20 @@
 package learnlooping;
 
 public class Loopingdemo {
+	
+
  	public static void main(String[] args) {
-		int count=1;
-          while(count<=5) {
-			System.out.println(1+" ");
-			count =count+1;
-			
-			
+		int row=0;
+		while(row<5) 
+		{		
+          int colum=5;
+		  while(colum>=1) 
+        	  {
+			System.out.print(colum+" ");
+			colum--;
 	}
+		  System.out.println();
+        	  row ++;
  	}
+}
 }
