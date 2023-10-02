@@ -4,7 +4,7 @@ public class Task {
 
 	public static void main(String[] args) {
 	 int start =1; int count =20;
-	 while(true)
+		while(true)
 	 {
 		 if(start%3==0 || start%5==0)
 		 {
