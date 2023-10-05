@@ -4,11 +4,14 @@ public class Textinloop {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int count = 1;
+		 for(int a=0 ;a<6; a++) 
+		 {
+         for(int z=65 ; z<68 ;z++) 
+         {
+        	 System.out.print((char)z+" ");
 
-		while (count <= 5) {
-			System.out.println(" " + "gugan");
-			count++;
+}        
+         System.out.println();
 
 		}
 	}
